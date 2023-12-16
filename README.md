@@ -1,1 +1,1 @@
-It is a basic Html css and js project - calculator. Solves all kinds of arithematic problems
+ Front end projects to help understand Html css and js at an intermediate level.
